@@ -1,5 +1,7 @@
 # StudyBrain AI: Tutor Universitario Local
 
+> **Este proyecto continúa en [suite-ia-local](https://github.com/EnderFairXD/suite-ia-local)**, que junta las cinco herramientas de IA local (contratos, documentación, correo, reuniones y estudio) con código común, tests y soporte para textos largos. Este repositorio queda archivado como referencia.
+
 Una plataforma 100% privada y local que combina `faster-whisper` (para desgrabación de clases teóricas) y `pdfplumber` (para análisis de temarios) con modelos locales (Llama 3.1 vía Ollama) para generar material de estudio avanzado.
 
 ## Características
